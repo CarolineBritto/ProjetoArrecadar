@@ -1,0 +1,119 @@
+.cabecalho .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1em;
+    margin-left: 8em;
+    margin-right: 10em;
+}
+
+.img-cabecalho{
+    height: 120px;
+}
+
+.navegador{
+    font-size: 20px;
+    text-transform: uppercase;
+   
+}
+
+.botao{
+    margin-left: 10px;
+}
+
+.chamada-acao{
+    background-color: rgb(125, 245, 143);
+    padding: 50px 0 ;
+    text-align: center;
+    line-height: 35px;
+}
+
+.chamada-acao h1{
+    font-size: 30px;
+}
+
+.chamada-acao p{
+   font-style: italic;
+   margin-top: 45px;
+   font-size: 20px;
+   margin-bottom: 25px;
+}
+
+.chamada-acao a{
+    margin-left: 60px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.sobre{
+    padding: 100px 0 ;
+    line-height: 35px;
+}
+
+.titulo{
+    font-size: 45px;
+    text-align: center;
+}
+
+.sobre p{
+    margin-left : 140px;
+    margin-right: 60px;
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+.paragrafo {
+    margin-top: 60px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.projetos{
+    border: 8px solid rgb(125, 245, 143);
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.projetos h3{
+    margin-top: 10px;
+
+}
+
+.lista-principal{
+    column-count: 2;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.lista img{
+    height: 200px;
+    margin-top: 40px;
+}
+
+.linha{
+    margin-bottom: 60px;
+}
+
+.comoDoar{
+    text-align: center;
+    
+}
+
+.logo-img {
+    height: 80px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(125, 245, 143);
+    text-align: center;
+    padding: 40px 0;
+}
+
